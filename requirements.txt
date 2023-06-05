@@ -3,3 +3,5 @@ numpy
 pandas
 matplotlib
 bpy
+pymorphy3
+razdel
